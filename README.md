@@ -23,8 +23,7 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario) or via email at natyrosario39@hotmail.com. You can also find me on:
 
-</div>
-        <h2>Contact Me</h2>
+</div
         <div class="contact-icons">
             <a href="https://www.linkedin.com/in/nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
             <a href="mailto:natyrosario39@hotmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="Email"></a>
