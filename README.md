@@ -25,7 +25,7 @@ body {
 }
 
 .small-gif {
-    max-width: 30px; /* Ajuste o tamanho conforme necessário */
+    max-width: 10px; 
     height: auto;
 }
 >
