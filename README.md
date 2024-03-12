@@ -22,6 +22,6 @@ I have experience in coordination, in-person and phone sales, customer service, 
 
 ## Contact Me
 
-You can reach out to me via email at [your.email@example.com](mailto:your.email@example.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario)!
 
 Let's code together and build amazing things! 💻✨
