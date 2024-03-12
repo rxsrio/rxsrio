@@ -27,6 +27,8 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 
 [![Natalia Rosario's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxsrio&show_icons=true&theme=radical)](https://github.com/seu_nome_de_usuário)
 
+[![Spotify](https://novatorem.joaoalexandre.now.sh/api/spotify)](https://open.spotify.com/user/seu_id)
+
 
 ## Contact Me
 
@@ -42,4 +44,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario
         </div>
     </div>
     <p>Let's code together and build amazing things! 💻✨</p>
+
+
+    
 
