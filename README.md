@@ -1,64 +1,75 @@
-# Hello World! 👋 My name is Natalia Rosario! 
-
-I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.
-
-## About Me
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) 
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div>
-  
-  ##
-
-English is my second language, and I have a strong command of the Portuguese language, both written and spoken, as well as an intermediate level of Spanish. I'm always eager to learn new languages; currently, I'm studying Spanish more intensively, and I'm also exploring French, Italian, and German.
-
-<div> 
- 
-  <a href="[https://www.instagram.com/rxsrio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/natyrosario_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@nataliarosario" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/nataliarosario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="natyrosario39@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-</div>
-
-
-## Skills
-
-- **JavaScript**
-- **Java**
-- **HTML5**
-- **CSS3**
-
-
-## Languages
-- Portuguese (Native)
-- English (Fluent)
-- Spanish (Intermediate)
-
-## Contact Me
-
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario)!
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF</title>
+    <title>Natalia Rosario</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff7f9; /* Cor de fundo rosa claro */
+            color: #5c3d5c; /* Cor do texto rosa escuro */
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff69b4; /* Cor do título rosa */
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .skills ul,
+        .languages ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills li,
+        .languages li {
+            margin-bottom: 10px;
+        }
+        .contact-icons a {
+            margin-right: 10px;
+        }
+        .contact-icons img {
+            height: 40px;
+            width: auto;
+            vertical-align: middle;
+        }
+    </style>
 </head>
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-    <img src="file:///C:/Users/natyr/Downloads/ezgif-6-ed509ee800.gif" alt="GIF" width="50">
+<body>
+    <div class="container">
+        <h1>Hello World! <span style="font-size: 1.2em;">👋 My name is Natalia Rosario!</span></h1>
+        <p>I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.</p>
+        <h2>About Me</h2>
+        <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" width="50">
+        <h2>Skills</h2>
+        <div class="skills">
+            <ul>
+                <li>JavaScript</li>
+                <li>Java</li>
+                <li>HTML5</li>
+                <li>CSS3</li>
+            </ul>
+        </div>
+        <h2>Languages</h2>
+        <div class="languages">
+            <ul>
+                <li>Portuguese (Native)</li>
+                <li>English (Fluent)</li>
+                <li>Spanish (Intermediate)</li>
+            </ul>
+        </div>
+        <h2>Contact Me</h2>
+        <div class="contact-icons">
+            <a href="https://www.linkedin.com/in/nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+            <a href="mailto:natyrosario39@hotmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="Email"></a>
+            <a href="https://www.instagram.com/rxsrio/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a>
+            <a href="https://www.twitch.tv/natyrosario_" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitch.png" alt="Twitch"></a>
+            <a href="https://discord.com/channels/@nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"></a>
+        </div>
+    </div>
+    <p>Let's code together and build amazing things! 💻✨</p>
 </body>
 </html>
-
-
-Let's code together and build amazing things! 💻✨
