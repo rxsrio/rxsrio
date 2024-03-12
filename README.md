@@ -20,11 +20,12 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
         }
         
         img {
-            width: 50%; 10;
-            height: auto;
+            width: 50%;10;
+            height: 10;10;
             display: block;
         }
     </style>
+    
 </head>
 <body>
     <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF">
