@@ -27,7 +27,7 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 
 [![Natalia Rosario's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxsrio&show_icons=true&theme=radical)](https://github.com/seu_nome_de_usuário)
 
-[![Spotify](https://novatorem.joaoalexandre.now.sh/api/spotify)](https://open.spotify.com/user/12174583448)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12174583448&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12174583448&redirect=true)
 
 
 
