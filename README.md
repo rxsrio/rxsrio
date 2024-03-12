@@ -10,11 +10,27 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GIF</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        
+        img {
+            width: 50%; /* Ajuste o tamanho conforme necessário */
+            height: auto;
+            display: block;
+        }
+    </style>
 </head>
 <body>
     <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF">
 </body>
 </html>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
