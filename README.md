@@ -1,6 +1,6 @@
-# Hello World! 👋
+# Hello World! 👋 My name is Natalia Rosario, welcome! 
 
-My name is Natalia Rosario, welcome! I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.
+I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.
 
 ## About Me
 
