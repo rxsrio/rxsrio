@@ -3,6 +3,7 @@
 I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.
 
 ## About Me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
