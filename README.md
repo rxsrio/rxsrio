@@ -19,7 +19,7 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
             margin: 0;
         }
         
-        img {
+      gif {
             width: 50%;10;
             height: 10;10;
             display: block;
