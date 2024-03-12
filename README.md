@@ -25,7 +25,7 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 - English (Fluent)
 - Spanish (Intermediate)
 
-[![Natalia Rosario's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)](https://github.com/seu_nome_de_usuário)
+[![Natalia Rosario's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxsrio&show_icons=true&theme=radical)](https://github.com/seu_nome_de_usuário)
 
 
 ## Contact Me
