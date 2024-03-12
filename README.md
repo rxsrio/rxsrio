@@ -47,10 +47,10 @@
         <h2>Skills</h2>
         <div class="skills">
             <ul>
-                <li>JavaScript</li>
-                <li>Java</li>
-                <li>HTML5</li>
-                <li>CSS3</li>
+                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"> JavaScript</li>
+                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"> Java</li>
+                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"> HTML5</li>
+                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"> CSS3</li>
             </ul>
         </div>
         <h2>Languages</h2>
@@ -61,6 +61,7 @@
                 <li>Spanish (Intermediate)</li>
             </ul>
         </div>
+        <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" width="50">
         <h2>Contact Me</h2>
         <div class="contact-icons">
             <a href="https://www.linkedin.com/in/nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
