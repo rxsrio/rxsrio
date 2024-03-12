@@ -6,7 +6,6 @@ My name is Natalia Rosario, welcome! I live in the city of São Paulo (SP), I'm 
 
 English is my second language, and I have a strong command of the Portuguese language, both written and spoken, as well as an intermediate level of Spanish. I'm always eager to learn new languages; currently, I'm studying Spanish more intensively, and I'm also exploring French, Italian, and German.
 
-I have experience in coordination, in-person and phone sales, customer service, conflict resolution, operational, and administrative roles. In addition to practical knowledge, I have completed high school and taken supplementary courses to enhance my resume.
 
 ## Skills
 
