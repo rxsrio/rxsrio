@@ -25,6 +25,9 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 - English (Fluent)
 - Spanish (Intermediate)
 
+[![Natalia Rosario's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)](https://github.com/seu_nome_de_usuário)
+
+
 ## Contact Me
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario) or via email at natyrosario39@hotmail.com. You can also find me on:
