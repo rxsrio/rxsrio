@@ -47,8 +47,6 @@ English is my second language, and I have a strong command of the Portuguese lan
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario)!
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
