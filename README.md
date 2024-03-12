@@ -4,6 +4,18 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
 
 ## About Me
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIF</title>
+</head>
+<body>
+    <img src="url_do_seu_gif.gif](https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF">
+</body>
+</html>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ##
