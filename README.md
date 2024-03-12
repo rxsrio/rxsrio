@@ -11,8 +11,8 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GIF</title>
 </head>
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-    <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" style="max-width: 30px; height: auto;">
+<body style="display: flex; justify-content: center; align-items: center; height: 10vh; margin: 1;">
+    <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" style="max-width: 10px; height: auto;">
 </body>
 </html>
 
