@@ -4,7 +4,7 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
 
 ## About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) 
 
 ##
 
