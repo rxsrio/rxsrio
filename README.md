@@ -12,7 +12,7 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
     <title>GIF</title>
 </head>
 <body style="display: flex; justify-content: left; align-items: center; height: 5vh; margin: 1;">
-    <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" style="max-width: 5px; height: auto;">
+    <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" style="max-width: 5px; height: 3;">
 </body>
 </html>
 
