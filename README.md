@@ -4,7 +4,7 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
 
 ## About Me
 
-![GIF](https://s6.ezgif.com/tmp/ezgif-6-6cd8760c02.gif)
+<img src="https://s6.ezgif.com/tmp/ezgif-6-6cd8760c02.gif" alt="GIF" width="50">
 
 ## Skills
 
