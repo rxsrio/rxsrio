@@ -1,6 +1,12 @@
 # Hello World! 👋 My name is Natalia Rosario!
 
-I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.
+I'm a Software Engineering student at UNISA University based in São Paulo, Brazil. Beyond my formal education, I'm passionate about expanding my knowledge through various online platforms like Alura.
+
+Outside of academics, I have a few quirks and interests that keep life interesting. Firstly, I'm a proud owner of three adorable pugs, one lovely Pinscher, and a mischievous cat. They bring so much joy and chaos to my daily routine! 🐶😺
+
+My journey into the world of programming has led me to focus on Java. I'm currently diving deep into its intricacies, exploring its vast ecosystem, and honing my skills to become a proficient Java developer.
+
+In my free time, you can often find me immersed in coding challenges, tinkering with new projects, or simply enjoying the company of my furry friends. I'm always eager to learn, grow, and connect with fellow enthusiasts in the tech community.
 
 ## About Me
 
