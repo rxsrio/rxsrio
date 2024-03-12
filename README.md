@@ -54,25 +54,10 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GIF</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body>
-    <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" class="small-gif">
-</body
-
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-}
-
-.small-gif {
-    max-width: 10px; 
-    height: auto;
-}
->
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+    <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" width="50">
+</body>
 </html>
 
 
