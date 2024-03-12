@@ -38,39 +38,5 @@
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <h1>Hello World! <span style="font-size: 1.2em;">👋 My name is Natalia Rosario!</span></h1>
-        <p>I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.</p>
-        <h2>About Me</h2>
-        <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" width="50">
-        <h2>Skills</h2>
-        <div class="skills">
-            <ul>
-                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"> JavaScript</li>
-                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"> Java</li>
-                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"> HTML5</li>
-                <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"> CSS3</li>
-            </ul>
-        </div>
-        <h2>Languages</h2>
-        <div class="languages">
-            <ul>
-                <li>Portuguese (Native)</li>
-                <li>English (Fluent)</li>
-                <li>Spanish (Intermediate)</li>
-            </ul>
-        </div>
-        <img src="https://s6.ezgif.com/tmp/ezgif-6-ed509ee800.gif" alt="GIF" width="50">
-        <h2>Contact Me</h2>
-        <div class="contact-icons">
-            <a href="https://www.linkedin.com/in/nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-            <a href="mailto:natyrosario39@hotmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="Email"></a>
-            <a href="https://www.instagram.com/rxsrio/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a>
-            <a href="https://www.twitch.tv/natyrosario_" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitch.png" alt="Twitch"></a>
-            <a href="https://discord.com/channels/@nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"></a>
-        </div>
-    </div>
-    <p>Let's code together and build amazing things! 💻✨</p>
-</body>
-</html>
+<
+
