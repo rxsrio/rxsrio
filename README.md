@@ -1,42 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Natalia Rosario</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #fff7f9; /* Cor de fundo rosa claro */
-            color: #5c3d5c; /* Cor do texto rosa escuro */
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #ff69b4; /* Cor do título rosa */
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        .skills ul,
-        .languages ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .skills li,
-        .languages li {
-            margin-bottom: 10px;
-        }
-        .contact-icons a {
-            margin-right: 10px;
-        }
-        .contact-icons img {
-            height: 40px;
-            width: auto;
-            vertical-align: middle;
-        }
-    </style>
-</head>
-<
+# Hello World! 👋 My name is Natalia Rosario!
+
+I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engineering student at the University UNISA. I fell in love with technology at my first encounter.
+
+## About Me
+
+![GIF](https://s6.ezgif.com/tmp/ezgif-6-6cd8760c02.gif)
+
+## Skills
+
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3
+
+## Languages
+
+- Portuguese (Native)
+- English (Fluent)
+- Spanish (Intermediate)
+
+## Contact Me
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario)!
 
