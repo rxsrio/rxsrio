@@ -8,10 +8,10 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
 
 ## Skills
 
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30"> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30"> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30"> CSS3
 
 ## Languages
 
@@ -21,5 +21,11 @@ I live in the city of São Paulo (SP), I'm 21 years old, and I'm a Software Engi
 
 ## Contact Me
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario)!
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario) or via email at natyrosario39@hotmail.com. You can also find me on:
+
+- [Instagram](https://www.instagram.com/rxsrio/)
+- [Twitch](https://www.twitch.tv/natyrosario_)
+- [Discord](https://discord.com/channels/@nataliarosario)
+
+
 
