@@ -40,8 +40,7 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 ## Contact Me
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario) or via e-mail at natyrosario39@hotmail.com. You can also find me on:
-//
-//
+
 </div
         <div class="contact-icons">
             <a href="https://www.linkedin.com/in/nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
@@ -49,8 +48,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliarosario
             <a href="https://www.instagram.com/rxsrio/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a>
             <a href="https://www.twitch.tv/natyrosario_" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitch.png" alt="Twitch"></a>
             <a href="https://discord.com/channels/@nataliarosario" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord">
-//       
-//
+
   </a>
        </div>
     </div>
