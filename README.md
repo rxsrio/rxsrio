@@ -14,7 +14,7 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 <img src="https://media1.tenor.com/m/Ob5P5AnupFkAAAAC/blue-silvermist.gif" alt="Water Fairy">
 
 
-## Skills
+## 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"> 
