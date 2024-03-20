@@ -10,7 +10,8 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 
 ## About Me
 
-![Blue Silvermist](https://tenor.com/view/blue-silvermist-tinker-bell-fairy-fly-gif-15466464)
+![Bichinho fofo](https://tenor.com/view/blue-silvermist-tinker-bell-fairy-fly-gif-15466464)
+
 
 
 ## Skills
