@@ -11,7 +11,7 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 ## About Me
 
 
-<img src="https://tenor.com/view/blue-silvermist-tinker-bell-fairy-fly-gif-15466464" alt="Bichinho fofo">
+![Water fairy](https://media.tenor.com/images/40d20a4c89e329e73db2945bbf72a9e5/tenor.gif)
 
 
 
