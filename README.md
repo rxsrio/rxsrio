@@ -11,9 +11,7 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 ## About Me
 
 
-![Water fairy](https://media.tenor.com/images/40d20a4c89e329e73db2945bbf72a9e5/tenor.gif)
-
-
+<img src="https://media1.tenor.com/m/Ob5P5AnupFkAAAAC/blue-silvermist.gif" alt="Water Fairy">
 
 
 ## Skills
