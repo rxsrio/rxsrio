@@ -10,7 +10,7 @@ In my free time, you can often find me immersed in coding challenges, tinkering 
 
 ## About Me
 
-<img src="https://s6.ezgif.com/tmp/ezgif-6-6cd8760c02.gif" alt="GIF" width="250">
+<div class="tenor-gif-embed" data-postid="15466464" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/blue-silvermist-tinker-bell-fairy-fly-gif-15466464">Blue Silvermist GIF</a>from <a href="https://tenor.com/search/blue-gifs">Blue GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Skills
 
